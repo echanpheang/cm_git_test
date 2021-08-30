@@ -1,3 +1,3 @@
 <?php
-    echo 'Holle word..!!!';
+    echo 'Holle Word..';
 ?>
